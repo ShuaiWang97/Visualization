@@ -1,0 +1,161 @@
+Topic,topic_words,topic_words_short,word_scores,Health_topic,health_topic_summary
+0,"['services' 'education' 'science' 'health' 'government' 'research'
+ 'internet' 'initiative' 'technology' 'healthcare' 'care' 'will'
+ 'academic' 'sciences' 'management' 'security' 'intelligent' 'things'
+ 'access' 'policy' 'institutions' 'areas' 'big' 'communications' 'life'
+ 'business' 'sharing' 'technological' 'scientific' 'projects'
+ 'disciplines' 'industry' 'hpcc' 'infrastructure' 'medical' 'applications'
+ 'engineering' 'collaborative' 'centers' 'people' 'challenges' 'national'
+ 'privacy' 'remote' 'information' 'students' 'technologies' 'project'
+ 'informatics' 'manufacturing']","['services', 'education', 'science', 'health', 'government']","[0.55581385 0.5404423  0.5219422  0.51572806 0.5148455  0.5126253
+ 0.50842583 0.5024965  0.49026904 0.4866168  0.46523526 0.463595
+ 0.4630867  0.46051142 0.4579487  0.45408347 0.45307612 0.44839343
+ 0.4470356  0.44605124 0.44270018 0.43686906 0.43634146 0.43414354
+ 0.4334248  0.4284798  0.42811194 0.42711383 0.4224365  0.42229152
+ 0.4218511  0.4210312  0.42025483 0.41791865 0.41779208 0.4168216
+ 0.41475776 0.41414434 0.41281697 0.41242748 0.40870553 0.40717766
+ 0.40493193 0.40434128 0.40340135 0.40332016 0.40195486 0.40190047
+ 0.3972062  0.39562726]",yes,Yes - Healthcare Technology
+1,"['flow' 'geometries' 'navier' 'numerical' 'fluid' 'mesh' 'stokes' 'finite'
+ 'equations' 'shear' 'boundary' 'velocity' 'blood' 'pressure' 'wall'
+ 'geometry' 'element' 'simulate' 'solver' 'meshes' 'nonlinear' 'flows'
+ 'coupling' 'coupled' 'conditions' 'model' 'cardiac' 'cfd' 'mechanical'
+ 'simulations' 'artery' 'arterial' 'phenomena' 'equation' 'heart'
+ 'simulation' 'stress' 'lattice' 'vascular' 'solved' 'unstructured'
+ 'difference' 'wave' 'scaling' 'boltzmann' 'vessel' 'ventricular'
+ 'simulating' 'modelling' 'decomposition']","['flow', 'geometries', 'navier', 'numerical', 'fluid']","[0.6593561  0.6276838  0.62437695 0.62344396 0.6147346  0.6014623
+ 0.5966426  0.5898311  0.5770493  0.56330884 0.5451673  0.5443681
+ 0.5355696  0.5344193  0.52811503 0.5268151  0.5263347  0.51468563
+ 0.50687265 0.50674087 0.49075425 0.48761034 0.48339114 0.4799899
+ 0.4784145  0.47460687 0.4623658  0.46169895 0.45872757 0.4518338
+ 0.4511866  0.44469044 0.43852082 0.43624705 0.43379667 0.43095332
+ 0.42499033 0.4244791  0.4229586  0.42238086 0.41165122 0.40191257
+ 0.3986693  0.3983944  0.397725   0.39186415 0.3902865  0.38987225
+ 0.38393074 0.38004252]",no,N/A
+2,"['binding' 'compounds' 'docking' 'candidates' 'ligand' 'protein' 'ligands'
+ 'inhibitors' 'molecules' 'molecule' 'molecular' 'receptor' 'drug'
+ 'chemical' 'screening' 'conformational' 'md' 'target' 'proteins'
+ 'targets' 'drugs' 'silico' 'discovery' 'pathways' 'site' 'active' 'sars'
+ 'cov' 'force' 'energy' 'flexibility' 'free' 'signaling' 'virtual'
+ 'design' 'chemistry' 'quantum' 'interactions' 'designing' 'dynamics'
+ 'against' 'folding' 'calculations' 'pharmaceutical' 'mechanism' 'lead'
+ 'find' 'amino' 'known' 'programs']","['binding', 'compounds', 'docking', 'candidates', 'ligand']","[0.6816054  0.65722513 0.65482885 0.6471394  0.6433213  0.63259965
+ 0.6278001  0.624421   0.62085235 0.6126349  0.6076686  0.5985245
+ 0.5981675  0.59546363 0.5825033  0.56886345 0.5392705  0.5119946
+ 0.50215626 0.49000883 0.47767285 0.4670851  0.46229625 0.4480148
+ 0.44698778 0.44663313 0.43538126 0.4250147  0.42416495 0.39983982
+ 0.39860874 0.39362475 0.39220953 0.38544536 0.37230745 0.37210983
+ 0.3604595  0.35978606 0.35934544 0.3579627  0.35683584 0.3567573
+ 0.35414174 0.3522603  0.349161   0.34505647 0.336657   0.33599767
+ 0.33513016 0.3325706 ]",yes,Yes - Drug Discovery.
+3,"['genome' 'alignments' 'sequence' 'alignment' 'genomes' 'sequences'
+ 'reads' 'phylogenetic' 'speedup' 'sequential' 'assembly' 'snps'
+ 'nucleotide' 'gene' 'evolutionary' 'genes' 'read' 'datasets' 'snp' 'gwas'
+ 'sequencing' 'memory' 'dna' 'organisms' 'trees' 'execution' 'inference'
+ 'species' 'genomic' 'expression' 'version' 'thousands' 'minutes'
+ 'bacterial' 'node' 'likelihood' 'genetic' 'github' 'maximum' 'intel'
+ 'https' 'show' 'dataset' 'variation' 'markers' 'cpu' 'association' 'find'
+ 'published' 'algorithm']","['genome', 'alignments', 'sequence', 'alignment', 'genomes']","[0.56655204 0.5573641  0.5050574  0.5026046  0.49426714 0.48746577
+ 0.47285134 0.464958   0.4639221  0.44700927 0.44570398 0.44259417
+ 0.44098857 0.4298977  0.42854568 0.42760786 0.42333815 0.42019138
+ 0.41892782 0.41474864 0.40602478 0.40245393 0.3994679  0.39632788
+ 0.37801915 0.37500864 0.37010905 0.36892402 0.36471158 0.36285767
+ 0.36043704 0.3597773  0.35753953 0.35684106 0.35628802 0.35433137
+ 0.34637576 0.34476706 0.341595   0.3397199  0.33724067 0.3368919
+ 0.33121097 0.33092254 0.3305388  0.32934615 0.3292367  0.32602873
+ 0.32499585 0.32497966]",no,N/A
+4,"['image' 'cuda' 'gpu' 'cpu' 'reconstruction' 'projection' 'nvidia'
+ 'registration' 'gpus' 'seconds' 'hardware' 'images' 'graphics' 'units'
+ 'iterative' 'speedup' 'tomographic' 'beam' 'achieved' 'tomography'
+ 'speed' 'memory' 'processing' 'implementations' 'implementation'
+ 'processor' 'imaging' 'unit' 'cpus' 'ct' 'device' 'algorithm' 'back'
+ 'minutes' 'intel' 'medical' 'bandwidth' 'standard' 'programming'
+ 'reconstructed' 'rendering' 'faster' 'difference' 'mr' 'ieee' 'pet'
+ 'voxel' 'time' 'processors' 'takes']","['image', 'cuda', 'gpu', 'cpu', 'reconstruction']","[0.5596513  0.5527299  0.5240851  0.52319425 0.51896244 0.50325537
+ 0.4829376  0.4713372  0.46717444 0.46377543 0.43712586 0.4362919
+ 0.43217412 0.4317026  0.42496246 0.41730326 0.4148274  0.41359317
+ 0.41320133 0.41235843 0.41230008 0.4113767  0.40752748 0.4068207
+ 0.40510616 0.40319157 0.4012465  0.39813197 0.38873777 0.38596147
+ 0.38507125 0.37925288 0.37805238 0.37528214 0.3737829  0.36710522
+ 0.36111814 0.36054537 0.3556033  0.3547213  0.35419145 0.34907606
+ 0.34831655 0.34619564 0.34513378 0.34318358 0.3427108  0.33992067
+ 0.33923477 0.33742988]",yes,Yes - Medical Imaging Acceleration
+5,"['sequencing' 'ngs' 'genome' 'annotation' 'reads' 'genomes' 'sequence'
+ 'seq' 'genomics' 'pipeline' 'genomic' 'read' 'friendly' 'pipelines' 'raw'
+ 'rna' 'bioinformatics' 'users' 'https' 'analyses' 'github' 'alignment'
+ 'workflows' 'analysis' 'workflow' 'dna' 'datasets' 'user' 'microbial'
+ 'nucleotide' 'species' 'com' 'next' 'samples' 'assembly' 'web'
+ 'conclusions' 'http' 'sequences' 'alignments' 'throughput' 'tools'
+ 'publicly' 'available' 'linux' 'projects' 'organisms' 'metagenomic' 'org'
+ 'data']","['sequencing', 'ngs', 'genome', 'annotation', 'reads']","[0.6211565  0.54857194 0.547568   0.54002494 0.5339017  0.5331604
+ 0.53313434 0.5286861  0.5162984  0.5043017  0.49961257 0.4985883
+ 0.49041906 0.4889086  0.4844303  0.48168096 0.47965288 0.4787325
+ 0.47368625 0.47280106 0.46774325 0.46622017 0.44645226 0.444456
+ 0.44379544 0.4400785  0.4360022  0.43251604 0.43168697 0.4298293
+ 0.42781317 0.42745987 0.42655063 0.42433438 0.42230937 0.42061117
+ 0.42023918 0.42006782 0.4199136  0.41761935 0.40872568 0.4082954
+ 0.40715343 0.4040569  0.40391618 0.39829516 0.397268   0.3956893
+ 0.39304373 0.39028838]",no,N/A
+6,"['convolutional' 'neural' 'cnn' 'trained' 'classification' 'deep'
+ 'learning' 'accuracy' 'images' 'segmentation' 'diagnosis' 'training'
+ 'image' 'dl' 'network' 'vision' 'features' 'detection' 'machine'
+ 'dataset' 'svm' 'recognition' 'specificity' 'feature' 'tuning' 'achieved'
+ 'train' 'proposed' 'ai' 'early' 'pathology' 'artificial' 'collected'
+ 'propose' 'respectively' 'evaluated' 'invasive' 'intelligence'
+ 'reduction' 'medical' 'best' 'iot' 'manual' 'extraction' 'loss' 'pre'
+ 'breast' 'networks' 'tasks' 'automatically']","['convolutional', 'neural', 'cnn', 'trained', 'classification']","[0.625562   0.60515445 0.58369803 0.55931777 0.5583709  0.51983786
+ 0.5087829  0.50265217 0.49607387 0.4900028  0.47772828 0.4664552
+ 0.43915677 0.43313852 0.41615266 0.41506922 0.40487513 0.4045041
+ 0.40173748 0.3926498  0.39020798 0.38528922 0.38204262 0.38032025
+ 0.37563875 0.36690077 0.3600511  0.35635763 0.35611835 0.35473168
+ 0.34775308 0.3470419  0.34180617 0.34155855 0.3404619  0.33691752
+ 0.32967585 0.32572085 0.3232425  0.32278997 0.32024434 0.31814677
+ 0.31694555 0.31373256 0.31171024 0.31086755 0.30977088 0.30761695
+ 0.30654618 0.30619478]",yes,Yes - Medical Image Analysis
+7,"['infection' 'patients' 'agent' 'epidemic' 'population' 'pandemic'
+ 'people' 'risk' 'total' 'outcomes' 'who' 'spread' 'social' 'findings'
+ 'had' 'cause' 'age' 'populations' 'day' 'policy' 'influenza' 'year'
+ 'identified' 'individuals' 'impact' 'public' 'were' 'viruses' 'virus'
+ 'greater' 'health' 'days' 'rates' 'hospital' 'effect' 'suggest' 'primary'
+ 'after' 'between' 'behavior' 'states' 'ratio' 'viral' 'not' 'us'
+ 'questions' 'covid' 'contact' 'their' 'model']","['infection', 'patients', 'agent', 'epidemic', 'population']","[0.53163123 0.49494693 0.48113346 0.47577646 0.46925685 0.46731707
+ 0.45951754 0.45162866 0.445799   0.44057325 0.433537   0.4330197
+ 0.42760748 0.4209725  0.41816163 0.41697493 0.41619337 0.40036154
+ 0.3997327  0.3976024  0.3964072  0.39527625 0.39384165 0.39056048
+ 0.37747434 0.37556735 0.3748115  0.36496258 0.36274773 0.36133003
+ 0.3579071  0.35256663 0.34683764 0.34643185 0.3432389  0.34141815
+ 0.3368437  0.33617836 0.33573046 0.33547756 0.33077544 0.33034092
+ 0.32899907 0.32804543 0.32721627 0.32518122 0.3228336  0.32259378
+ 0.32190943 0.32113934]",yes,Yes - Infectious Disease Spread.
+8,"['neuroimaging' 'brain' 'fmri' 'neuroscience' 'connectivity' 'mri' 'eeg'
+ 'imaging' 'magnetic' 'python' 'pipelines' 'users' 'resonance'
+ 'electrical' 'image' 'open' 'processing' 'software' 'sharing'
+ 'monitoring' 'user' 'acquisition' 'workflows' 'processed' 'researchers'
+ 'org' 'integrate' 'tools' 'facilitate' 'anatomical' 'github' 'mapping'
+ 'activity' 'published' 'ways' 'data' 'images' 'storage' 'visualization'
+ 'enable' 'executed' 'hpc' 'interactive' 'workflow' 'mr' 'temporal' 'will'
+ 'services' 'integrated' 'needs']","['neuroimaging', 'brain', 'fmri', 'neuroscience', 'connectivity']","[0.58489895 0.5519072  0.5488633  0.53908026 0.51047724 0.5087016
+ 0.48838937 0.45473453 0.40342388 0.39514124 0.39111513 0.38690165
+ 0.3759221  0.37211224 0.37150767 0.36864203 0.3684648  0.36823323
+ 0.36277196 0.36143893 0.3505461  0.34277546 0.33931625 0.33471504
+ 0.32799846 0.32517335 0.32010204 0.31943506 0.3186309  0.31855613
+ 0.31170318 0.30740193 0.30715352 0.30642933 0.30564114 0.30383465
+ 0.30257717 0.30203104 0.29786032 0.2962672  0.29540506 0.2952822
+ 0.29385793 0.29283938 0.29223853 0.29162794 0.28697363 0.2853693
+ 0.2818958  0.28055266]",yes,Yes - Neuroimaging Software.
+9,"['dose' 'carlo' 'monte' 'beam' 'radiation' 'mc' 'photon' 'radiotherapy'
+ 'voxel' 'plans' 'calculation' 'planning' 'transport' 'therapy' 'plan'
+ 'particle' 'treatment' 'organ' 'calculations' 'purpose' 'code' 'geometry'
+ 'agreement' 'american' 'anatomy' 'calculated' 'ct' 'commercial' 'physics'
+ 'standard' 'simulation' 'was' 'reserved' 'intel' 'seconds' 'optimization'
+ 'tissues' 'body' 'simulated' 'rights' 'tomography' 'hardware' 'minutes'
+ 'measurements' 'difference' 'remote' 'procedures' 'nvidia' 'images'
+ 'were']","['dose', 'carlo', 'monte', 'beam', 'radiation']","[0.76444936 0.6898041  0.6788191  0.647418   0.62951237 0.57756186
+ 0.56488734 0.5560807  0.5557336  0.5316689  0.5289266  0.5138384
+ 0.50001675 0.4900421  0.4815124  0.45547634 0.45046607 0.404047
+ 0.39863652 0.39815813 0.38657287 0.38572025 0.3825086  0.37535357
+ 0.3727553  0.37013522 0.34677872 0.33895552 0.3275755  0.32088956
+ 0.3184718  0.31738883 0.31194597 0.31115216 0.30970654 0.30946484
+ 0.30719832 0.3047944  0.30395067 0.30193523 0.3012004  0.3009527
+ 0.3005921  0.30030817 0.29870382 0.29831797 0.29723534 0.29649574
+ 0.29462495 0.29395038]",yes,Yes - Radiation Therapy Planning
